@@ -11,7 +11,7 @@
       "exists": true,
       "svg": "<svg class=\"verification-badge\" viewBox=\"0 0 24 24\"><circle class=\"badge-circle\" cx=\"12\" cy=\"12\" r=\"12\"/><path class=\"badge-check\" d=\"M9.55 17.55L4 12l1.45-1.45L9.55 14.65l7-7L18 9.1l-8.45 8.45z\"/></svg>"
     },
-    "bannerImageUrl": "https://placehold.co/1200x600/2d1b69/FFFFFF?text=Artist+Banner"
+    "bannerImageUrl": "https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d?auto=format&fit=crop&w=800&q=80"
   },
   "sections": [
     {
