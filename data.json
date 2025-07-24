@@ -1,41 +1,132 @@
 {
-    "pageTitle": "YouTube Music - Artist Profile",
-    "artistProfile": {
-        "artistName": "Braddock",
-        "monthlyListeners": "125M monthly audience",
-        "subscribeButton": {
-            "text": "Message 13.5M",
-            "link": "https://www.youtube.com/channel/your-artist-channel-link"
-        },
-        "verificationBadge": {
-            "exists": true,
-            "svg": "<svg class=\"verification-badge\" viewBox=\"0 0 24 24\"><circle class=\"badge-circle\" cx=\"12\" cy=\"12\" r=\"12\"/><path class=\"badge-check\" d=\"M9.55 17.55L4 12l1.45-1.45L9.55 14.65l7-7L18 9.1l-8.45 8.45z\"/></svg>"
-        },
-        "bannerImageUrl": "https://placehold.co/1200x600/2d1b69/FFFFFF?text=Artist+Banner"
+  "pageTitle": "YouTube Music - Artist Profile",
+  "artistProfile": {
+    "artistName": "Braddock",
+    "monthlyListeners": "125M monthly audience",
+    "subscribeButton": {
+      "text": "Message 13.5M",
+      "link": "https://www.youtube.com/channel/your-artist-channel-link"
     },
-    "sections": [
+    "verificationBadge": {
+      "exists": true,
+      "svg": "<svg class=\"verification-badge\" viewBox=\"0 0 24 24\"><circle class=\"badge-circle\" cx=\"12\" cy=\"12\" r=\"12\"/><path class=\"badge-check\" d=\"M9.55 17.55L4 12l1.45-1.45L9.55 14.65l7-7L18 9.1l-8.45 8.45z\"/></svg>"
+    },
+    "bannerImageUrl": "https://placehold.co/1200x600/2d1b69/FFFFFF?text=Artist+Banner"
+  },
+  "sections": [
+    {
+      "id": "albums",
+      "title": "Albums",
+      "seeAllLink": "#",
+      "cards": [
         {
-            "id": "albums",
-            "title": "Albums",
-            "seeAllLink": "#",
-            "cards": [
-                {
-                    "title": "Cosmic Dreams",
-                    "year": "2024",
-                    "artworkUrl": "https://placehold.co/800x800/667eea/FFFFFF?text=Cosmic+Dreams",
-                    "link": "?artifact_id=album-detail-page&albumTitle=Cosmic%20Dreams&albumYear=2024&artworkUrl=https%3A%2F%2Fplacehold.co%2F800x800%2F667eea%2FFFFFFF%3Ftext%3DCosmic%2BDreams"
-                },
-                {
-                    "title": "Neon Nights",
-                    "year": "2023",
-                    "artworkUrl": "https://placehold.co/800x800/764ba2/FFFFFF?text=Neon+Nights",
-                    "link": "?artifact_id=album-detail-page&albumTitle=Neon%20Nights&albumYear=2023&artworkUrl=https%3A%2F%2Fplacehold.co%2F800x800%2F764ba2%2FFFFFFF%3Ftext%3DNeon%2BNights"
-                }
-            ]
+          "title": "Cosmic Dreams",
+          "year": "2024",
+          "artworkUrl": "https://placehold.co/800x800/667eea/FFFFFF?text=Cosmic+Dreams",
+          "link": "?artifact_id=album-detail-page&albumTitle=Cosmic%20Dreams&albumYear=2024&artworkUrl=https%3A%2F%2Fplacehold.co%2F800x800%2F667eea%2FFFFFFF%3Ftext%3DCosmic%2BDreams"
+        },
+        {
+          "title": "Neon Nights",
+          "year": "2023",
+          "artworkUrl": "https://placehold.co/800x800/764ba2/FFFFFF?text=Neon+Nights",
+          "link": "?artifact_id=album-detail-page&albumTitle=Neon%20Nights&albumYear=2023&artworkUrl=https%3A%2F%2Fplacehold.co%2F800x800%2F764ba2%2FFFFFFF%3Ftext%3DNeon%2BNights"
+        },
+        {
+          "title": "Urban Pulse",
+          "year": "2022",
+          "artworkUrl": "https://placehold.co/800x800/f093fb/FFFFFF?text=Urban+Pulse",
+          "link": "?artifact_id=album-detail-page&albumTitle=Urban%20Pulse&albumYear=2022&artworkUrl=https%3A%2F%2Fplacehold.co%2F800x800%2Ff093fb%2FFFFFFF%3Ftext%3DUrban%2BPulse"
+        },
+        {
+          "title": "Galactic Harmonies",
+          "year": "2021",
+          "artworkUrl": "https://placehold.co/800x800/f5576c/FFFFFF?text=Galactic+Harmonies",
+          "link": "?artifact_id=album-detail-page&albumTitle=Galactic%20Harmonies&albumYear=2021&artworkUrl=https%3A%2F%2Fplacehold.co%2F800x800%2Ff5576c%2FFFFFFF%3Ftext%3DGalactic%2BHarmonies"
+        },
+        {
+          "title": "Echoes of Tomorrow",
+          "year": "2020",
+          "artworkUrl": "https://placehold.co/800x800/667eea/FFFFFF?text=Echoes+of+Tomorrow",
+          "link": "?artifact_id=album-detail-page&albumTitle=Echoes%20of%20Tomorrow&albumYear=2020&artworkUrl=https%3A%2F%2Fplacehold.co%2F800x800%2F667eea%2FFFFFFF%3Ftext%3DEchoes%2Bof%2BTomorrow"
         }
-    ],
-    "aboutSection": {
-        "title": "About",
-        "text": "This is a placeholder for detailed information about the artist. You can add biographies, inspirations, achievements, and more here."
+      ]
+    },
+    {
+      "id": "featuredContent",
+      "title": "Featured Content",
+      "seeAllLink": "#",
+      "cards": [
+        {
+          "type": "image",
+          "title": "Aurora Borealis",
+          "subtitle": "Featured Media",
+          "mediaUrl": "https://placehold.co/800x450/3498db/FFFFFF?text=Featured+Image+1",
+          "link": "#"
+        },
+        {
+          "type": "gif",
+          "title": "Dancing Astronaut",
+          "subtitle": "Featured GIF",
+          "mediaUrl": "https://media.giphy.com/media/l0HlFZ3c4EA0mlqa4/giphy.gif",
+          "link": "#"
+        },
+        {
+          "type": "video",
+          "title": "Big Buck Bunny",
+          "subtitle": "Featured Video",
+          "mediaUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+          "link": "#"
+        },
+        {
+          "type": "image",
+          "title": "Cosmic Dust",
+          "subtitle": "Featured Media",
+          "mediaUrl": "https://placehold.co/800x450/2ecc71/FFFFFF?text=Featured+Image+2",
+          "link": "#"
+        },
+        {
+          "type": "gif",
+          "title": "Space Exploration",
+          "subtitle": "Featured GIF",
+          "mediaUrl": "https://media.giphy.com/media/l0HlFZ3c4EA0mlqa4/giphy.gif",
+          "link": "#"
+        }
+      ]
+    },
+    {
+      "id": "fansAlsoLike",
+      "title": "Fans might also like",
+      "seeAllLink": "#",
+      "cards": [
+        {
+          "name": "Aria Wave",
+          "listeners": "8.5M monthly listeners",
+          "imageUrl": "https://placehold.co/280x280/ffeaa7/FFFFFF?text=Aria+Wave",
+          "link": "#"
+        },
+        {
+          "name": "Neon Dreams",
+          "listeners": "15.2M monthly listeners",
+          "imageUrl": "https://placehold.co/280x280/a29bfe/FFFFFF?text=Neon+Dreams",
+          "link": "#"
+        },
+        {
+          "name": "Digital Soul",
+          "listeners": "6.1M monthly listeners",
+          "imageUrl": "https://placehold.co/280x280/00cec9/FFFFFF?text=Digital+Soul",
+          "link": "#"
+        },
+        {
+          "name": "Cosmic Echoes",
+          "listeners": "10.8M monthly listeners",
+          "imageUrl": "https://placehold.co/280x280/ffbe76/FFFFFF?text=Cosmic+Echoes",
+          "link": "#"
+        }
+      ]
     }
+  ],
+  "aboutSection": {
+    "title": "About",
+    "text": "This is a placeholder for detailed information about the artist. You can add biographies, inspirations, achievements, and more here."
+  }
 }
