@@ -1,0 +1,41 @@
+{
+    "pageTitle": "YouTube Music - Artist Profile",
+    "artistProfile": {
+        "artistName": "Braddock",
+        "monthlyListeners": "125M monthly audience",
+        "subscribeButton": {
+            "text": "Message 13.5M",
+            "link": "https://www.youtube.com/channel/your-artist-channel-link"
+        },
+        "verificationBadge": {
+            "exists": true,
+            "svg": "<svg class=\"verification-badge\" viewBox=\"0 0 24 24\"><circle class=\"badge-circle\" cx=\"12\" cy=\"12\" r=\"12\"/><path class=\"badge-check\" d=\"M9.55 17.55L4 12l1.45-1.45L9.55 14.65l7-7L18 9.1l-8.45 8.45z\"/></svg>"
+        },
+        "bannerImageUrl": "https://placehold.co/1200x600/2d1b69/FFFFFF?text=Artist+Banner"
+    },
+    "sections": [
+        {
+            "id": "albums",
+            "title": "Albums",
+            "seeAllLink": "#",
+            "cards": [
+                {
+                    "title": "Cosmic Dreams",
+                    "year": "2024",
+                    "artworkUrl": "https://placehold.co/800x800/667eea/FFFFFF?text=Cosmic+Dreams",
+                    "link": "?artifact_id=album-detail-page&albumTitle=Cosmic%20Dreams&albumYear=2024&artworkUrl=https%3A%2F%2Fplacehold.co%2F800x800%2F667eea%2FFFFFFF%3Ftext%3DCosmic%2BDreams"
+                },
+                {
+                    "title": "Neon Nights",
+                    "year": "2023",
+                    "artworkUrl": "https://placehold.co/800x800/764ba2/FFFFFF?text=Neon+Nights",
+                    "link": "?artifact_id=album-detail-page&albumTitle=Neon%20Nights&albumYear=2023&artworkUrl=https%3A%2F%2Fplacehold.co%2F800x800%2F764ba2%2FFFFFFF%3Ftext%3DNeon%2BNights"
+                }
+            ]
+        }
+    ],
+    "aboutSection": {
+        "title": "About",
+        "text": "This is a placeholder for detailed information about the artist. You can add biographies, inspirations, achievements, and more here."
+    }
+}
