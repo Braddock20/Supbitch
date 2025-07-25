@@ -1,10 +1,10 @@
 {
   "pageTitle": "YouTube Music - Artist Profile",
   "artistProfile": {
-    "artistName": "littlespider",
-    "monthlyListeners": "Test drive",
+    "artistName": ".",
+    "monthlyListeners": ".",
     "subscribeButton": {
-      "text": "IDK🙃",
+      "text": ".",
       "link": "https://www.youtube.com/channel/your-artist-channel-link"
     },
     "verificationBadge": {
@@ -18,32 +18,7 @@
       "id": "albums",
       "title": "Albums",
       "seeAllLink": "#",
-      "cards": [
-        {
-          "title": "Cosmic Dreams",
-          "year": "2024",
-          "artworkUrl": "https://placehold.co/800x800/667eea/FFFFFF?text=Cosmic+Dreams",
-          "link": "?artifact_id=album-detail-page&albumTitle=Cosmic%20Dreams&albumYear=2024&artworkUrl=https%3A%2F%2Fplacehold.co%2F800x800%2F667eea%2FFFFFFF%3Ftext%3DCosmic%2BDreams"
-        },
-        {
-          "title": "Neon Nights",
-          "year": "2023",
-          "artworkUrl": "https://placehold.co/800x800/764ba2/FFFFFF?text=Neon+Nights",
-          "link": "?artifact_id=album-detail-page&albumTitle=Neon%20Nights&albumYear=2023&artworkUrl=https%3A%2F%2Fplacehold.co%2F800x800%2F764ba2%2FFFFFFF%3Ftext%3DNeon%2BNights"
-        },
-        {
-          "title": "Urban Pulse",
-          "year": "2022",
-          "artworkUrl": "https://placehold.co/800x800/f093fb/FFFFFF?text=Urban+Pulse",
-          "link": "?artifact_id=album-detail-page&albumTitle=Urban%20Pulse&albumYear=2022&artworkUrl=https%3A%2F%2Fplacehold.co%2F800x800%2Ff093fb%2FFFFFFF%3Ftext%3DUrban%2BPulse"
-        },
-        {
-          "title": "Galactic Harmonies",
-          "year": "2021",
-          "artworkUrl": "https://placehold.co/800x800/f5576c/FFFFFF?text=Galactic+Harmonies",
-          "link": "?artifact_id=album-detail-page&albumTitle=Galactic%20Harmonies&albumYear=2021&artworkUrl=https%3A%2F%2Fplacehold.co%2F800x800%2Ff5576c%2FFFFFFF%3Ftext%3DGalactic%2BHarmonies"
-        }
-      ]
+      "cards": []
     },
     {
       "id": "featuredContent",
@@ -66,7 +41,7 @@
     }
   ],
   "aboutSection": {
-    "title": "About",
-    "text": "This is a placeholder for detailed information about the artist. You can add biographies, inspirations, achievements, and more here."
+    "title": ".",
+    "text": "."
   }
 }
