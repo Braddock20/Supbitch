@@ -42,12 +42,6 @@
           "year": "2021",
           "artworkUrl": "https://placehold.co/800x800/f5576c/FFFFFF?text=Galactic+Harmonies",
           "link": "?artifact_id=album-detail-page&albumTitle=Galactic%20Harmonies&albumYear=2021&artworkUrl=https%3A%2F%2Fplacehold.co%2F800x800%2Ff5576c%2FFFFFFF%3Ftext%3DGalactic%2BHarmonies"
-        },
-        {
-          "title": "Echoes of Tomorrow",
-          "year": "2020",
-          "artworkUrl": "https://placehold.co/800x800/667eea/FFFFFF?text=Echoes+of+Tomorrow",
-          "link": "?artifact_id=album-detail-page&albumTitle=Echoes%20of%20Tomorrow&albumYear=2020&artworkUrl=https%3A%2F%2Fplacehold.co%2F800x800%2F667eea%2FFFFFFF%3Ftext%3DEchoes%2Bof%2BTomorrow"
         }
       ]
     },
@@ -55,43 +49,7 @@
       "id": "featuredContent",
       "title": "Featured Content",
       "seeAllLink": "#",
-      "cards": [
-        {
-          "type": "image",
-          "title": "Aurora Borealis",
-          "subtitle": "Featured Media",
-          "mediaUrl": "https://placehold.co/800x450/3498db/FFFFFF?text=Featured+Image+1",
-          "link": "#"
-        },
-        {
-          "type": "gif",
-          "title": "Dancing Astronaut",
-          "subtitle": "Featured GIF",
-          "mediaUrl": "https://media.giphy.com/media/l0HlFZ3c4EA0mlqa4/giphy.gif",
-          "link": "#"
-        },
-        {
-          "type": "video",
-          "title": "Big Buck Bunny",
-          "subtitle": "Featured Video",
-          "mediaUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
-          "link": "#"
-        },
-        {
-          "type": "image",
-          "title": "Cosmic Dust",
-          "subtitle": "Featured Media",
-          "mediaUrl": "https://placehold.co/800x450/2ecc71/FFFFFF?text=Featured+Image+2",
-          "link": "#"
-        },
-        {
-          "type": "gif",
-          "title": "Space Exploration",
-          "subtitle": "Featured GIF",
-          "mediaUrl": "https://media.giphy.com/media/l0HlFZ3c4EA0mlqa4/giphy.gif",
-          "link": "#"
-        }
-      ]
+      "cards": []
     },
     {
       "id": "fansAlsoLike",
@@ -102,18 +60,6 @@
           "name": "Aria Wave",
           "listeners": "8.5M monthly listeners",
           "imageUrl": "https://byvwqfheepbotqpiupvs.supabase.co/storage/v1/object/sign/lucid-20/1753447279205_Domain-Name-Generator.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9lZjljODBhNS01ZDc0LTQ1NjQtYWI5ZC1jNzljMDY0YTU5Y2YiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJsdWNpZC0yMC8xNzUzNDQ3Mjc5MjA1X0RvbWFpbi1OYW1lLUdlbmVyYXRvci5wbmciLCJpYXQiOjE3NTM0NTE0NjUsImV4cCI6NDkwNzA1MTQ2NX0.ZYSwfsAxCA_2BMPPJpGhkfNXospA70qaUHw6-Z7UIfs",
-          "link": "#"
-        },
-        {
-          "name": "Digital Soul",
-          "listeners": "6.1M monthly listeners",
-          "imageUrl": "https://placehold.co/280x280/00cec9/FFFFFF?text=Digital+Soul",
-          "link": "#"
-        },
-        {
-          "name": "Cosmic Echoes",
-          "listeners": "10.8M monthly listeners",
-          "imageUrl": "https://placehold.co/280x280/ffbe76/FFFFFF?text=Cosmic+Echoes",
           "link": "#"
         }
       ]
