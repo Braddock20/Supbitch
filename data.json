@@ -18,7 +18,14 @@
       "id": "albums",
       "title": "Albums",
       "seeAllLink": "#",
-      "cards": []
+      "cards": [
+        {
+          "title": "Whatsapp",
+          "year": ".",
+          "artworkUrl": "https://byvwqfheepbotqpiupvs.supabase.co/storage/v1/object/sign/lucid-20/1753522540009_+254%20742%20530793%2020250726_123447.jpg?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9lZjljODBhNS01ZDc0LTQ1NjQtYWI5ZC1jNzljMDY0YTU5Y2YiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJsdWNpZC0yMC8xNzUzNTIyNTQwMDA5XysyNTQgNzQyIDUzMDc5MyAyMDI1MDcyNl8xMjM0NDcuanBnIiwiaWF0IjoxNzUzNTIyNTQ0LCJleHAiOjQ5MDcxMjI1NDR9.jkajSZJvNJ0llc2q5U06t3hSRHR0teMiO9vZedMC2Cw",
+          "link": "https://wa.me/qr/BFRGNDPDA4JOO1"
+        }
+      ]
     },
     {
       "id": "featuredContent",
